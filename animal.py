@@ -17,7 +17,7 @@ class Cat(Animal):
         print(f"{self.name} Meow!")
 
     def hiss(self):
-        print(f"{self.name} Hissss!")
+        print(f"{self.name} kass siseneb tuppa!")
 
     def sees(self, other):
         super().sees(other)
